@@ -2475,6 +2475,7 @@
 		.image img {
 			display: block;
 			border-radius: 4px;
+      width: 100%;
 		}
 
 		.image.left, .image.right {
