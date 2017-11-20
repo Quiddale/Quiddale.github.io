@@ -2463,13 +2463,18 @@
 
 /* Image */
 
+
+  .video {
+
+  }
+
 	.image {
 		border: 0;
 		border-radius: 4px;
 		display: inline-block;
 		position: relative;
-    width: 100%;
-    height: auto;
+    width: 100%; !important;
+    height: auto; !important;
 	}
 
 		.image img {
